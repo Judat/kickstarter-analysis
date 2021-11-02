@@ -31,6 +31,6 @@ Conclusion 2 : The best goal range for a succeful campaign is either less than 5
 - What are some limitations of this dataset?
 The data shows us the trends over a period of time in different countries but it doesnt specify the demographics or ages of the backers to give us insight into spending habbits based on age and background.
 - What are some other possible tables and/or graphs that we could create?
-We can use Pie chart and box plots as well
+We can use Pie chart and box plots as well. 
 
 
